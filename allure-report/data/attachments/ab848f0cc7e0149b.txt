@@ -1,0 +1,126 @@
+
+
+Soft assertion  18:
+
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Purpose Code] in the Loan Details page. [Actual:WC - Working Capital,- Capital Improvement/Leasehold Improvement,AQ - Acquisition Financing,LV - Leveraged Financing,RF - Rate - Term Refinance,CO - Cash - Out Refinance,BR - Bridge,CC - Credit Card,CO - Construction]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+Stack: AssertionError: 
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Purpose Code] in the Loan Details page. [Actual:WC - Working Capital,- Capital Improvement/Leasehold Improvement,AQ - Acquisition Financing,LV - Leveraged Financing,RF - Rate - Term Refinance,CO - Cash - Out Refinance,BR - Bridge,CC - Credit Card,CO - Construction]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+
+    ,_chaiDeepEqual (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:349:20)
+    ,_assert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:173:23)
+    ,_prepareAndAssert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:413:12)
+     (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\assertion.js:88:12)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2648:31)
+    at Array.forEach (<anonymous>)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2647:43)
+    at Array.forEach (<anonymous>)
+    at Function.enterAndVerifyDropdownOptions (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2625:21)
+    at World.<anonymous> (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\test\/test.losglobal.js:131:18)
+    at World.executeSync (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:38:22)
+    at C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:69:73
+
+Soft assertion  19:
+
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Relationship Manager] in the Loan Details page. [Actual:Jitendra Kurra,Cync Support2,Sunil H,Cync Support1,Shravani U,Saurabh Singh,Yathirajulu Bandi,Thara Jacob,Deepashree B,UiAuto Portfolio Manager,Kousalya Kolingiyappan,Yaswanth Reddy,Sharan S,Harshitha Pochiraju,Laxmi Subudhi,UiAuto Credit Analyst,Saravanan T,Yellapan P,Harman Gill,UiAuto Chief Lending Officer,Thanushree M,UiAuto Loan Officer,UiAuto Spread,UiAuto Relationship Manager,UiAuto File Mapping,UiAuto Relationships,UiAuto Collateral,UiAuto Covenant,UiAuto File Manager,UiAuto Loans,UiAuto Risk Rating,UiAuto Exception,Hossain Md,Yashwanth K,UiAuto Chief Credit Officer,Subbarao Patti,Rangaraj Shanmugam,Itishree Mohapatra,Selvaganesh T,UiAuto Admin]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+Stack: AssertionError: 
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Relationship Manager] in the Loan Details page. [Actual:Jitendra Kurra,Cync Support2,Sunil H,Cync Support1,Shravani U,Saurabh Singh,Yathirajulu Bandi,Thara Jacob,Deepashree B,UiAuto Portfolio Manager,Kousalya Kolingiyappan,Yaswanth Reddy,Sharan S,Harshitha Pochiraju,Laxmi Subudhi,UiAuto Credit Analyst,Saravanan T,Yellapan P,Harman Gill,UiAuto Chief Lending Officer,Thanushree M,UiAuto Loan Officer,UiAuto Spread,UiAuto Relationship Manager,UiAuto File Mapping,UiAuto Relationships,UiAuto Collateral,UiAuto Covenant,UiAuto File Manager,UiAuto Loans,UiAuto Risk Rating,UiAuto Exception,Hossain Md,Yashwanth K,UiAuto Chief Credit Officer,Subbarao Patti,Rangaraj Shanmugam,Itishree Mohapatra,Selvaganesh T,UiAuto Admin]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+
+    ,_chaiDeepEqual (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:349:20)
+    ,_assert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:173:23)
+    ,_prepareAndAssert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:413:12)
+     (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\assertion.js:88:12)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2648:31)
+    at Array.forEach (<anonymous>)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2647:43)
+    at Array.forEach (<anonymous>)
+    at Function.enterAndVerifyDropdownOptions (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2625:21)
+    at World.<anonymous> (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\test\/test.losglobal.js:131:18)
+    at World.executeSync (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:38:22)
+    at C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:69:73
+
+Soft assertion  20:
+
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Portfolio Manager] in the Loan Details page. [Actual:Jitendra Kurra,Cync Support2,Sunil H,Cync Support1,Shravani U,Saurabh Singh,Yathirajulu Bandi,Thara Jacob,Deepashree B,UiAuto Portfolio Manager,Kousalya Kolingiyappan,Yaswanth Reddy,Sharan S,Harshitha Pochiraju,Laxmi Subudhi,UiAuto Credit Analyst,Saravanan T,Yellapan P,Harman Gill,UiAuto Chief Lending Officer,Thanushree M,UiAuto Loan Officer,UiAuto Spread,UiAuto Relationship Manager,UiAuto File Mapping,UiAuto Relationships,UiAuto Collateral,UiAuto Covenant,UiAuto File Manager,UiAuto Loans,UiAuto Risk Rating,UiAuto Exception,Hossain Md,Yashwanth K,UiAuto Chief Credit Officer,Subbarao Patti,Rangaraj Shanmugam,Itishree Mohapatra,Selvaganesh T,UiAuto Admin]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+Stack: AssertionError: 
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Portfolio Manager] in the Loan Details page. [Actual:Jitendra Kurra,Cync Support2,Sunil H,Cync Support1,Shravani U,Saurabh Singh,Yathirajulu Bandi,Thara Jacob,Deepashree B,UiAuto Portfolio Manager,Kousalya Kolingiyappan,Yaswanth Reddy,Sharan S,Harshitha Pochiraju,Laxmi Subudhi,UiAuto Credit Analyst,Saravanan T,Yellapan P,Harman Gill,UiAuto Chief Lending Officer,Thanushree M,UiAuto Loan Officer,UiAuto Spread,UiAuto Relationship Manager,UiAuto File Mapping,UiAuto Relationships,UiAuto Collateral,UiAuto Covenant,UiAuto File Manager,UiAuto Loans,UiAuto Risk Rating,UiAuto Exception,Hossain Md,Yashwanth K,UiAuto Chief Credit Officer,Subbarao Patti,Rangaraj Shanmugam,Itishree Mohapatra,Selvaganesh T,UiAuto Admin]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+
+    ,_chaiDeepEqual (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:349:20)
+    ,_assert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:173:23)
+    ,_prepareAndAssert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:413:12)
+     (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\assertion.js:88:12)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2648:31)
+    at Array.forEach (<anonymous>)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2647:43)
+    at Array.forEach (<anonymous>)
+    at Function.enterAndVerifyDropdownOptions (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2625:21)
+    at World.<anonymous> (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\test\/test.losglobal.js:131:18)
+    at World.executeSync (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:38:22)
+    at C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:69:73
+
+Soft assertion  22:
+
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Source] in the Loan Details page. [Actual:In Person,Telephone,Online,Mail]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+Stack: AssertionError: 
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Source] in the Loan Details page. [Actual:In Person,Telephone,Online,Mail]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+
+    ,_chaiDeepEqual (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:349:20)
+    ,_assert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:173:23)
+    ,_prepareAndAssert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:413:12)
+     (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\assertion.js:88:12)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2648:31)
+    at Array.forEach (<anonymous>)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2647:43)
+    at Array.forEach (<anonymous>)
+    at Function.enterAndVerifyDropdownOptions (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2625:21)
+    at World.<anonymous> (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\test\/test.losglobal.js:131:18)
+    at World.executeSync (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:38:22)
+    at C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:69:73
+
+Soft assertion  23:
+
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Branch] in the Loan Details page. [Actual:Kingstowne @ Giant,Hilltop Village Center,Duke & Quaker,Beacon Mall @ Giant,Alexandria @ Giant,BTM,UiAutoTC01BranchNameREG51238,UiAutoTC01BranchNameREG64242,UiAutoTC02BranchNameREG27345,UiAutoTC02BranchNameREG99224,UiAutoTC01BranchNameREG70046,New,UiAutoTC01BranchNameREG72159,UiAutoTC02BranchNameREG86717,UiAutoTC02BranchNameREG65302,UiAutoTC02BranchNameREG20058,UiAutoTC03BranchNameSAN44057,UiAutoTC05BranchNameSAN58051,UiAutoTC02BranchNameREG83705,UiAutoTC05BranchNameSAN82856,UiAutoTC02BranchNameREG3236,UiAutoTC02BranchNameREG38590,UiAutoTC02BranchNameREG70278,UiAutoTC05BranchNameSAN51298,UiAutoTC05BranchNameSAN85162,UiAutoTC05BranchNameSAN41650,UiAutoTC01BranchNameREG69381]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+Stack: AssertionError: 
+
+	Custom Message : Expected option "No matches found." is not displayed under [FieldName : Branch] in the Loan Details page. [Actual:Kingstowne @ Giant,Hilltop Village Center,Duke & Quaker,Beacon Mall @ Giant,Alexandria @ Giant,BTM,UiAutoTC01BranchNameREG51238,UiAutoTC01BranchNameREG64242,UiAutoTC02BranchNameREG27345,UiAutoTC02BranchNameREG99224,UiAutoTC01BranchNameREG70046,New,UiAutoTC01BranchNameREG72159,UiAutoTC02BranchNameREG86717,UiAutoTC02BranchNameREG65302,UiAutoTC02BranchNameREG20058,UiAutoTC03BranchNameSAN44057,UiAutoTC05BranchNameSAN58051,UiAutoTC02BranchNameREG83705,UiAutoTC05BranchNameSAN82856,UiAutoTC02BranchNameREG3236,UiAutoTC02BranchNameREG38590,UiAutoTC02BranchNameREG70278,UiAutoTC05BranchNameSAN51298,UiAutoTC05BranchNameSAN85162,UiAutoTC05BranchNameSAN41650,UiAutoTC01BranchNameREG69381]
+
+	1 : key -> $ 		 message: expected false to deeply equal true
+
+    ,_chaiDeepEqual (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:349:20)
+    ,_assert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:173:23)
+    ,_prepareAndAssert (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\helper\assertion-helper.js:413:12)
+     (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\soft-assert\lib\assertion.js:88:12)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2648:31)
+    at Array.forEach (<anonymous>)
+    at forEach (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2647:43)
+    at Array.forEach (<anonymous>)
+    at Function.enterAndVerifyDropdownOptions (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\util\pages\/losglobal.util.js:2625:21)
+    at World.<anonymous> (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\src\test\/test.losglobal.js:131:18)
+    at World.executeSync (C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:38:22)
+    at C:\Users\yellapan.p\Sprint Tasks\Sprint_22\SD_MIG_General Infor\los-qa-ui-automation\node_modules\@wdio\sync\build\index.js:69:73

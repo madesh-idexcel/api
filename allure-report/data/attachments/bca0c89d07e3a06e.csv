@@ -1,0 +1,2 @@
+LoanName,ApplicationDate,ProposedLoanAmount,PurposeCode,LoanType,LoanProduct,LoanStructure,Action
+UIAutoTC01GICOMLO,Today Date,Automatic,CC - Credit Card,Commercial and Industrial (C&I),Oil and Gas,Revolving Line of Credit,Create

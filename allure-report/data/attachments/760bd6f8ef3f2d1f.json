@@ -1,0 +1,140 @@
+[
+  {
+    "level": "SEVERE",
+    "message": "https://losqaauto.cyncsoftware.com/ent/ - Refused to apply style from 'https://losqaauto.cyncsoftware.com/brands/losqaauto/loading.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+    "source": "security",
+    "timestamp": 1732615719155
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://losqaauto.cyncsoftware.com/ent/ - Refused to apply style from 'https://losqaauto.cyncsoftware.com/brands/losqaauto/style.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+    "source": "security",
+    "timestamp": 1732615719155
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://losqaauto.cyncsoftware.com/ent/ - Refused to apply style from 'https://losqaauto.cyncsoftware.com/default/loading.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+    "source": "security",
+    "timestamp": 1732615720869
+  },
+  {
+    "level": "WARNING",
+    "message": "https://www.datadoghq-browser-agent.com/us1/v5/datadog-rum.js 0:28610 \"Datadog Browser SDK:\" \"version value doesn't meet tag requirements and will be sanitized. More details: https://docs.datadoghq.com/getting_started/tagging/#defining-tags\"",
+    "source": "console-api",
+    "timestamp": 1732615725431
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isColumnDate' did you mean any of these: createColDefFromGridColumn, hasChildColumns, pivotValueColumn, template, suppressColumnsToolPanel, columnGroupShow, columnsMenuParams, pivotTotalColumnIds\"",
+    "source": "console-api",
+    "timestamp": 1732615726304
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'sortDate' did you mean any of these: sortedAt, chartDataType, sort, template, sortable, sortingOrder, sortIndex, unSortIcon\"",
+    "source": "console-api",
+    "timestamp": 1732615726304
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131544 \"ag-grid: to see all the valid colDef properties please check: https://www.ag-grid.com/javascript-grid-column-properties/\"",
+    "source": "console-api",
+    "timestamp": 1732615726304
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isColumnDate' did you mean any of these: createColDefFromGridColumn, hasChildColumns, pivotValueColumn, template, suppressColumnsToolPanel, columnGroupShow, columnsMenuParams, pivotTotalColumnIds\"",
+    "source": "console-api",
+    "timestamp": 1732615726307
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'sortDate' did you mean any of these: sortedAt, chartDataType, sort, template, sortable, sortingOrder, sortIndex, unSortIcon\"",
+    "source": "console-api",
+    "timestamp": 1732615726308
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131544 \"ag-grid: to see all the valid colDef properties please check: https://www.ag-grid.com/javascript-grid-column-properties/\"",
+    "source": "console-api",
+    "timestamp": 1732615726308
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://losqaauto.cyncsoftware.com/ent/ - Refused to apply style from 'https://losqaauto.cyncsoftware.com/default/loading.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+    "source": "security",
+    "timestamp": 1732615726604
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8125.098c9f359eb58cf20a5b.bundle.js 1:289 \"@babel/polyfill is loaded more than once on this page. This is probably not desirable/intended and may have consequences if different versions of the polyfills are applied sequentially. If you do need to load the polyfill more than once, use @babel/polyfill/noConflict instead to bypass the warning.\"",
+    "source": "console-api",
+    "timestamp": 1732615748348
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://lostestapi.cyncsoftware.com/spreading/api/spreading/v1/spreads/spread-existence/LOSQ008914C - Failed to load resource: the server responded with a status of 404 ()",
+    "source": "network",
+    "timestamp": 1732615750871
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://lostestapi.cyncsoftware.com/spreading/api/spreading/v1/highlights/highlights-calculation/LOSQ008914C - Failed to load resource: the server responded with a status of 404 ()",
+    "source": "network",
+    "timestamp": 1732615750875
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://lostestapi.cyncsoftware.com/spreading/api/spreading/v1/spreads/relationships/LOSQ008914C/gds/highights - Failed to load resource: the server responded with a status of 404 ()",
+    "source": "network",
+    "timestamp": 1732615751697
+  },
+  {
+    "level": "SEVERE",
+    "message": "https://lostestapi.cyncsoftware.com/creditmemorandum/formDocument?domainName=relationship&domainId=LOSQ008914C&allDetails=true&types=Annual%20Review&latest=true - Failed to load resource: the server responded with a status of 404 ()",
+    "source": "network",
+    "timestamp": 1732615752387
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isColumnDate' did you mean any of these: createColDefFromGridColumn, hasChildColumns, pivotValueColumn, template, suppressColumnsToolPanel, columnGroupShow, columnsMenuParams, pivotTotalColumnIds\"",
+    "source": "console-api",
+    "timestamp": 1732615759031
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isDateOnly' did you mean any of these: template, sortedAt, templateUrl, headerCheckboxSelectionFilteredOnly, chartDataType, refData, onCellContextMenu, floatingFilterComponent\"",
+    "source": "console-api",
+    "timestamp": 1732615759031
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131544 \"ag-grid: to see all the valid colDef properties please check: https://www.ag-grid.com/javascript-grid-column-properties/\"",
+    "source": "console-api",
+    "timestamp": 1732615759032
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isColumnDate' did you mean any of these: createColDefFromGridColumn, hasChildColumns, pivotValueColumn, template, suppressColumnsToolPanel, columnGroupShow, columnsMenuParams, pivotTotalColumnIds\"",
+    "source": "console-api",
+    "timestamp": 1732615759034
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131544 \"ag-grid: to see all the valid colDef properties please check: https://www.ag-grid.com/javascript-grid-column-properties/\"",
+    "source": "console-api",
+    "timestamp": 1732615759034
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131408 \"ag-grid: invalid colDef property 'isColumnDate' did you mean any of these: createColDefFromGridColumn, hasChildColumns, pivotValueColumn, template, suppressColumnsToolPanel, columnGroupShow, columnsMenuParams, pivotTotalColumnIds\"",
+    "source": "console-api",
+    "timestamp": 1732615759036
+  },
+  {
+    "level": "WARNING",
+    "message": "https://losqaauto.cyncsoftware.com/8676.70272980489269d360f5.bundle.js 1:1131544 \"ag-grid: to see all the valid colDef properties please check: https://www.ag-grid.com/javascript-grid-column-properties/\"",
+    "source": "console-api",
+    "timestamp": 1732615759036
+  }
+]
